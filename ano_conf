@@ -1,4 +1,4 @@
-ano,etnia,genero,subarea,quant_sub,total_de_paper
+ano,etnia,genero,subarea,quantidade_subarea,total_de_paper
 2000,Africans,Feminino,"Computer Science",14,23
 2000,Africans,Masculino,"Computer Science",90,168
 2000,Africans,"Não Informado","Computer Science",4,6
